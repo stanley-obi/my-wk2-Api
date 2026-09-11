@@ -1,0 +1,19 @@
+{
+  "name": "app.json",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stanley-gerald/backend-dev-repo1/blob/main/intro.js"
+  },
+  "type": "commonjs",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
